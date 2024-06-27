@@ -6,4 +6,4 @@ This Dashboard is of Diabetes patients health check,
 3)Trends in insulin usage.
 4)Insights into factors affecting blood glucose levels.
 5)Real-time blood glucose levels.
-6) Use of restart button for silicer restart..
+6) Use of restart button for silicer restart...
